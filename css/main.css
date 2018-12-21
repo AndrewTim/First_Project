@@ -1,6 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
+	box-sizing: border-box;
 }
 
 body{
@@ -100,7 +101,7 @@ footer{
 	}
 }
 
-@media screen and (min-width:100px) and (max-width:450px) {
+@media screen and (min-width:100px) and (max-width:430px) {
 .container-logo{
 	display: grid;
 	height: 160px;
